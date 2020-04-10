@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Complain Management.com</title>  
+</head>
+<body>
+    <center>
+    <img src="helo.png" style ="width:2000px;height:200px;border:50px;">
+    </center><br><br><br>
+    <div align="center">
+      <form><center>
+         <fieldset style="width: 600px; height: 350px; border: 100;">
+    <legend><strong>::  Edit Engineering Details ::</strong></legend><br><br>
+    <strong><highlight>Engg. Name :</highlight></strong> <input type="text" placeholder="Enter Your Name"><br>
+    <strong>Password* :</strong> <input type="text" placeholder="EnterPassword"><br>
+    <br>  <strong>
+      Address  :
+    <textarea name="tellmore" rows="5" cols="25" maxlength="100" wrap="hard">Permanent Address </textarea></strong><br>
+    <strong>Email ID:</strong> <input type="email" placeholder="Email"><br>
+    <strong>Mobile No :</strong><input type="text" placeholder="EnterPassword"><br>
+  
+
+    
+
+
+                                
+   <button type="button"><strong><a href="submit.html">submit </a> </strong> </button> 
+    </fieldset></center>
+</form>
+</div>
+</body>
+</html>

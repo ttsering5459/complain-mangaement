@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Complain Management.com</title>	
+</head>
+<body>
+    <center>
+    <img src="helo.png" style ="width:2000px;height:200px;border:50px;">
+    </center><br><br><br>
+      <form><center>
+      	 <fieldset style="width: 500px; height: 250px; border: 100;">
+    <legend><strong>User Log in:</strong></legend><br><br>
+    
+    <strong><highlight>User Name :</highlight></strong> <input type="text" placeholder="Enter Your Name"><br>
+    <strong>Password* :</strong> <input type="text" placeholder="EnterPassword"><br>
+    <strong>SelectType:</strong><select>
+  <option value="SelectType">::SelectTypes::</option>
+  <option value="Admin">Admin</option>
+  <option value="Student ">Student</option>
+  <option value="Teaching staff">Teaching Staff</option>
+  <option value="Nonteahing staff">Nonteaching staff</option>
+</select><br><br><br>
+                                 &nbsp;   &nbsp;     &nbsp;   &nbsp;   &nbsp;     &nbsp;      &nbsp;   &nbsp;    &nbsp;     &nbsp; <strong>   New Customer  :</strong>  &nbsp; <a href="forgotpasswordlink.html">Forgot Your Password</a><br>
+                                    &nbsp;  &nbsp;     &nbsp;      &nbsp;   &nbsp;    &nbsp;    &nbsp;    &nbsp;      &nbsp;    &nbsp;  <strong>       Contact Number:</strong>&nbsp; <a href="">94857956215</a><br><br>
+                                    
+
+   <button type="button"><strong> <a href="2ndpage.html">LogInNow </a></strong></button> 
+    </fieldset></center>
+</form>
+</body>
+</html>

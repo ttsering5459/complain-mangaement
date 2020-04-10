@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Complain Management.com</title>	
+</head>
+<body>
+    <center>
+    <img src="helo.png" style ="width:2000px;height:200px;border:50px;">
+    </center><br><br><br>
+      <form><center>
+      	<strong> You have submitted!!!</strong>
+</form>
+      	 	 </center>
+      	 	 
+</body>
+</html>
+
