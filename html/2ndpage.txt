@@ -12,7 +12,7 @@
          <fieldset style="width: 600px; height: 350px; border: 100;">
     <legend><strong>::  Edit Engineering Details ::</strong></legend><br><br>
     <strong><highlight>Engg. Name :</highlight></strong> <input type="text" placeholder="Enter Your Name"><br>
-    <strong>Password* :</strong> <input type="text" placeholder="EnterPassword"><br>
+    <strong>Password* :</strong> <input type="password" placeholder="EnterPassword"><br>
     <br>  <strong>
       Address  :
     <textarea name="tellmore" rows="5" cols="25" maxlength="100" wrap="hard">Permanent Address </textarea></strong><br>
