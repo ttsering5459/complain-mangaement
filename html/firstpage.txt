@@ -13,7 +13,7 @@
     <legend><strong>User Log in:</strong></legend><br><br>
     
     <strong><highlight>User Name :</highlight></strong> <input type="text" placeholder="Enter Your Name"><br>
-    <strong>Password* :</strong> <input type="text" placeholder="EnterPassword"><br>
+    <strong>Password* :</strong> <input type="password" placeholder="EnterPassword"><br>
     <strong>SelectType:</strong><select>
   <option value="SelectType">::SelectTypes::</option>
   <option value="Admin">Admin</option>
